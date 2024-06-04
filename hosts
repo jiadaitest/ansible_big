@@ -1,0 +1,4 @@
+[labansible]
+113 ansible_ssh_host=172.30.6.251 ansible_ssh_user="jiadai" ansible_ssh_pass="jiadai12345" ansible_ssh_port=22
+152 ansible_ssh_host=172.30.6.247 ansible_ssh_user="jiadai" ansible_ssh_pass="jiadai12345" ansible_ssh_port=22
+
